@@ -1,0 +1,4 @@
+Jupyter Notebook 7
+pandas: 2.2.2 
+matplotlib: 3.8.2 
+plotly: 5.18.0 
